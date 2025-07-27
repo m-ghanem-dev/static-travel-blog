@@ -1,5 +1,5 @@
 # static-travel-blog
-Static website hosted in S3 and distributed via Cloudfront.
+Static website hosted in S3 and distributed via Cloudfront with github actions for automated deployments
 
 Terraform IaC: https://github.com/m-ghanem-dev/static-travel-blog-infrastructure
 
